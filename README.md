@@ -1,5 +1,8 @@
 # RTL
 
+[![](https://poggit.pmmp.io/shield.state/RTL)](https://poggit.pmmp.io/p/RTL)
+[![](https://poggit.pmmp.io/shield.api/RTL)](https://poggit.pmmp.io/p/RTL)
+
 A PocketMine-MP plugin that corrects reversed RTL text in Minecraft: Bedrock Edition.
 
 Bedrock renders Right-To-Left scripts with their characters reversed.
