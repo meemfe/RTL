@@ -1,0 +1,7 @@
+name: RTL
+version: 1.0.0
+main: rtl\Main
+api: 5.44.2
+author: meemfe
+description: "Corrects reversed RTL text in Minecraft: Bedrock Edition."
+website: "https://github.com/meemfe/RTL"
