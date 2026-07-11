@@ -1,3 +1,5 @@
+> ⚠️ **This plugin is no longer maintained. PocketMine-MP has officially ended support, so this project is discontinued. Feel free to fork if you want to continue development.**
+
 # RTL
 
 [![](https://poggit.pmmp.io/shield.state/RTL)](https://poggit.pmmp.io/p/RTL)
